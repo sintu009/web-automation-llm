@@ -1,3 +1,7 @@
+Note:  My Rate limit exceed for today openai and google also  but this code is working 
+### Video Link : https://res.cloudinary.com/dnimidvwh/video/upload/v1756456874/Screen_Recording_2025-08-29_134816_r2siiv.mp4
+
+
 # 🍵 Chai Aur Code - Web Automation Magic ✨
 
 > *Brewing automation magic with chai precision and code elegance!*
