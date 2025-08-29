@@ -30,7 +30,7 @@ A beautiful, intelligent web automation script that combines the warmth of chai 
 
 1. **Clone or download the script**
    ```bash
-   # Save the script as chai-automation.js
+   # Save the script as web-auto.js
    ```
 
 2. **Install dependencies**
